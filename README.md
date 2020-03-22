@@ -1,4 +1,4 @@
-# Instagram API
+# Using Oauth with Python, Nginx and Docker
 ### Python app using some methods of Instagram API using Docker, Nginx, Python and Bottle
 
 ##### Useful links
@@ -28,5 +28,5 @@ python3 -m venv /path/to/new/virtual/environment
 source /path/to/new/virtual/environment/bin/activate
 pip install -r requirements.txt
 python app.py
-visit browser http://localhost:8080
+visit browser http://localhost:8080 or the host you have set up in your server configuration.
 ````
