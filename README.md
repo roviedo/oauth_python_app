@@ -25,6 +25,7 @@ REDIRECT_URI = 'MY_IG_APP_REDIRECT_URI'
 
 ````
 python3 -m venv /path/to/new/virtual/environment
+source /path/to/new/virtual/environment/bin/activate
 pip install -r requirements.txt
 python app.py
 visit browser http://localhost:8080
