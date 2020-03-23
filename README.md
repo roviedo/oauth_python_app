@@ -1,9 +1,10 @@
 # Using Oauth with Python, Nginx and Docker
-### Python app using some methods of Instagram API using Docker, Nginx, Python and Bottle
+### Python app doing Oauth using Docker, Nginx, Python and Bottle and Instagram API as my example.
 
 ##### Useful links
 Bottle https://bottlepy.org/
-Nginx https://hub.docker.com/_/nginx
+Nginx + Docker https://hub.docker.com/_/nginx
+Instagram API https://www.instagram.com/developer/
 
 ### Steps to Install and Run
 
